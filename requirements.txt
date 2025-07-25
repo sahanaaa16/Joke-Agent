@@ -1,4 +1,0 @@
-litellm
-google-adk
-openai
-python-docx
